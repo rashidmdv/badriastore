@@ -161,7 +161,8 @@
         /* background: linear-gradient(rgb(254, 254, 254), rgb(255, 255, 255), rgb(255, 250, 244), rgb(254, 243, 227), rgb(254, 236, 208)); */
         background: #ffffff;
         background-attachment: fixed;
-        overflow-x: hidden;
+        overflow-x: hidden;    
+        font-family: 'poppins',sans-serif;
     }
     
     .whatsapp {
