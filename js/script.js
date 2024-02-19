@@ -84,8 +84,6 @@ let observer = new IntersectionObserver((entries) => {
         console.log(entry)
         if (entry.isIntersecting) {
             entry.target.classList.add('show')
-        } else {
-            entry.target.classList.remove('show')
         }
     })
 })
